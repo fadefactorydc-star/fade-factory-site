@@ -320,9 +320,9 @@
     "@type":"BarberShop",
     "name":"Fade Factory",
     "image":[
-      "storefront.jpg",
-      "interior-1.jpg",
-      "interior-2.jpg"
+     "storefront.jpg.PNG",
+"interior-1.jpg.JPEG",
+"interior-2.jpg.JPEG"
     ],
     "address":{
       "@type":"PostalAddress",
